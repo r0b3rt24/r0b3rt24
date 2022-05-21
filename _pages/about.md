@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: True  # includes social icons at the bottom of the page
 ---
 
-Han is a software engineer @ Verkada Data Platform. Before he joined Verkada, and he worked @ Intuit Data Exchange as a software engineer. 
+Han is a software engineer @ Verkada Data Platform. Before he joined Verkada, he worked @ Intuit Data Exchange as a software engineer. 
 
 Han graduated from [University of Wisconsin-Madison](https://www.wisc.edu) in 05/2021 (B.S.), he majored in computer sciences, statistics, and philosophy. 
 
