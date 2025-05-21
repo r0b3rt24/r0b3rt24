@@ -13,10 +13,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: True  # includes social icons at the bottom of the page
 ---
 
-Han is a software engineer @ Verkada Data Platform. Before he joined Verkada, he worked @ Intuit Data Exchange as a software engineer. 
+Han is a software engineer @ Verkada. As the first IC on data-platform team, Han contributed to building PB scale IoT data-platform from scratch. Han recently joined Search & CV team, working on product side of Verkada. 
 
 Han graduated from [University of Wisconsin-Madison](https://www.wisc.edu) in 05/2021 (B.S.), he majored in computer sciences, statistics, and philosophy. 
 
-Han interested in all kinds of data infrasctures and data tools. He recently has been conducting research in hybrid transactional and analytical processing (HTAP) with Professor [Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/).
-
-Outside of work, Han enjoys skiing, tennis, and automobile sports. 
+Outside of work, Han enjoys skiing, tennis, cycling. 
