@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Blog - Han Cao</title>
+  <title>Post - Han Cao</title>
   <link rel="stylesheet" href="../assets/css/site.css" />
 </head>
 <body>
@@ -18,15 +18,13 @@
   </header>
 
   <main class="container">
-    <section class="blog-hero">
-      <p class="eyebrow">Writing</p>
-      <h1>Notes and posts</h1>
-      <p class="subtitle">Short, practical thoughts. Markdown-only.</p>
-    </section>
+    <div class="blog-hero">
+      <p class="eyebrow">Blog</p>
+      <h1 data-post-title>Loading...</h1>
+      <p class="post-meta" data-post-meta></p>
+    </div>
 
-    <ul class="post-list" data-post-list>
-      <li class="post-card">Loading posts...</li>
-    </ul>
+    <article class="post-content" data-post-content></article>
   </main>
 
   <footer class="site-footer">
@@ -34,6 +32,6 @@
   </footer>
 
   <script src="../assets/js/markdown.js"></script>
-  <script src="../assets/js/blog.js"></script>
+  <script src="../assets/js/post.js"></script>
 </body>
 </html>
