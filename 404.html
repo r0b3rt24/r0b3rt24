@@ -1,9 +1,34 @@
----
-layout: page
-permalink: /404.html
-title: "Page not found"
-description: "Looks like there has been a mistake. Nothing exists here."
-redirect: true
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Page not found</title>
+  <link rel="stylesheet" href="assets/css/site.css" />
+  <meta http-equiv="refresh" content="3; url=/" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="brand">Han Cao</div>
+      <nav class="nav">
+        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="blog/index.html">Blog</a>
+      </nav>
+    </div>
+  </header>
 
-<p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="{{ site.baseurl | prepend: site.url }}/">here</a>.</p>
+  <main class="container">
+    <section class="blog-hero">
+      <p class="eyebrow">404</p>
+      <h1>Page not found</h1>
+      <p class="subtitle">Redirecting you back to the homepage.</p>
+      <p>If you are not redirected, <a href="index.html">click here</a>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">&copy; 2025 Han Cao</div>
+  </footer>
+</body>
+</html>
