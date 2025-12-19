@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'uri', '0.10.1' # Match Ruby 3.0 default to avoid Bundler activation conflicts.
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
